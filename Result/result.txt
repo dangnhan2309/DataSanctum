@@ -1,0 +1,5 @@
+Lần         kết quả             tỉ lệ   (dùm model nào)
+  
+1		model, hello 	0.2 		bert_5k 
+
+		
